@@ -1,0 +1,17 @@
+{
+  "name": "questionsandanswers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "POLINA CHEBANENKO",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "underscore": "^1.13.1"
+  }
+}
