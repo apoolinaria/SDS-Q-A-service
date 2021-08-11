@@ -1,0 +1,73 @@
+{
+    "question": "47555",
+    "page": 1,
+    "count": 5,
+    "results": [
+        {
+            "answer_id": 452911,
+            "body": "Mine was delivered from Oklahoma",
+            "date": "2017-11-04T00:00:00.000Z",
+            "answerer_name": "toofast",
+            "helpfulness": 29,
+            "photos": []
+        },
+        {
+            "answer_id": 452922,
+            "body": "It ships from the facility in Tulsa",
+            "date": "2017-11-04T00:00:00.000Z",
+            "answerer_name": "toofast",
+            "helpfulness": 21,
+            "photos": []
+        },
+        {
+            "answer_id": 1991798,
+            "body": "Confirming it was made in Switzerland",
+            "date": "2021-06-16T00:00:00.000Z",
+            "answerer_name": "Dolly Jackson",
+            "helpfulness": 10,
+            "photos": [
+                {
+                    "id": 1752314,
+                    "url": "https://picsum.photos/id/180/75/75"
+                },
+                {
+                    "id": 1752315,
+                    "url": "https://picsum.photos/id/241/75/75"
+                },
+                {
+                    "id": 1752316,
+                    "url": "https://picsum.photos/id/41/75/75"
+                },
+                {
+                    "id": 1752317,
+                    "url": "https://picsum.photos/id/242/75/75"
+                },
+                {
+                    "id": 1752318,
+                    "url": "https://picsum.photos/id/1/75/75"
+                }
+            ]
+        },
+        {
+            "answer_id": 1991903,
+            "body": "Ships from India then passes through Mexico, then the U.S",
+            "date": "2021-06-17T00:00:00.000Z",
+            "answerer_name": "Seller",
+            "helpfulness": 8,
+            "photos": [
+                {
+                    "id": 1752363,
+                    "url": "https://picsum.photos/id/242/75/75"
+                }
+            ]
+        },
+        {
+            "answer_id": 1991721,
+            "body": "This product ships in 25 days.",
+            "date": "2021-06-16T00:00:00.000Z",
+            "answerer_name": "Bojangles",
+            "helpfulness": 6,
+            "photos": []
+        }
+    ]
+}
