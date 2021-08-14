@@ -1,8 +1,8 @@
 const db = require('./../database');
 
 module.exports = {
-  getQuestionByProductId: (id, callback) => {
-    const queryString = `SELECT * FROM questions WHERE product_id=${id}`;
+  getAnswers: (id, callback) => {
+    const queryString = `SELECT * FROM answers WHERE question_id=${id}`;
     db.query(queryString, (err, data) => {
       if (err) {
         callback(err);

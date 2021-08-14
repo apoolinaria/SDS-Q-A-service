@@ -5,7 +5,7 @@ const client = new Client({
   password: 'popo',
   host: 'localhost',
   port: '5432',
-  database: 'questionsandanswers',
+  database: 'sdc',
 });
 
 client
@@ -15,9 +15,6 @@ client
   })
   .catch((err) => {
     console.log(err);
-  })
-  .finally(() => {
-    client.end();
   });
 
 module.exports = client;
