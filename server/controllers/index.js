@@ -17,7 +17,6 @@ exports.questions = {
 };
 exports.answers = {
   get: function (req, res) {
-    console.log(req.params);
     models.answers.getAnswers(req.params.question_id, (err, data) => {
       if (err) {
         console.log('answers controller', err);
