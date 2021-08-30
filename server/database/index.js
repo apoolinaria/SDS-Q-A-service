@@ -11,7 +11,6 @@ const client = new Client({
 client
   .connect()
   .then(() => {
-    console.log(process.env.DB_HOST);
     console.log('Connected');
   })
   .catch((err) => {
