@@ -5,13 +5,16 @@ My job in this team was to replace an existing database and produce a scalable A
 
 Technologies used:
 
-- Node.js
-- Express
-- Docker
-- PostgreSQL
+- ![Node](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+- ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+- ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
 
 Testing
 -Loader.io
+
+Deployment 
+- ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 While testing with loader.io (which is a load testing service that allows you to stress test your web aps by imitating clients connections) I was able to reach the goal.
 
