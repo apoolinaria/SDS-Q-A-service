@@ -17,5 +17,7 @@ Deployment
 - ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 While testing with loader.io (which is a load testing service that allows you to stress test your web aps by imitating clients connections) I was able to reach the goal.
-
+My deployed service was able to achieve 600 requests per second with an aveage request time of 14ms and 0.003% error rate.
+This stress testing was performed on my deployed service on AWS EC2 t2.micros with no scalling, load balancing, or caching.
+The next step would be implementing horizontal scaling to be able to serve 1000 clients per second
 
